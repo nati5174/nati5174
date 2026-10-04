@@ -26,38 +26,9 @@ I build **AI systems, ML pipelines, and full-stack products** — from RAG and m
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql, pytorch,tensorflow, fastapi,flask,nodejs,express,postgres,mysql,redis,react,nextjs,tailwind,vite, aws,azure,docker,kubernetes,githubactions,gitlab" />
 </p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-`LangChain` · `LangGraph` · `OpenAI` · `Azure OpenAI` · `Gemini` · `Pinecone` · `Azure AI Search` · `LightGBM` · `DeepEval`
-
-### Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mysql,redis,prisma" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,gitlab" />
-</p>
-
 ---
 </div>
 
