@@ -20,19 +20,8 @@ I build **AI systems, ML pipelines, and full-stack products** — from RAG and m
 - 🤖 Interested in **AI Engineering, Machine Learning, Agents, RAG, and LLM evaluation**
 - 💻 Experienced across **AI/ML, backend, full-stack, and data engineering**
 - 🧠 I enjoy turning AI prototypes into **real, usable products**
-- 🔨 Currently building **FrameForge**, an AI-assisted aluminum frame design system
-
 ---
 
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql, pytorch,tensorflow, fastapi,flask,nodejs,express,postgres,mysql,redis,react,nextjs,tailwind,vite, aws,azure,docker,kubernetes,githubactions,gitlab" />
-</p>
----
-</div>
-
----
 
 <div align="center">
 
